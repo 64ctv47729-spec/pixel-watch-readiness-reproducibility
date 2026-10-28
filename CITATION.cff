@@ -5,6 +5,7 @@ type: software
 version: 1.0.0
 date-released: 2026-10-28
 license: MIT
+doi: 10.5281/zenodo.23734016
 repository-code: "https://github.com/64ctv47729-spec/pixel-watch-readiness-reproducibility"
 authors:
   - family-names: Doherty

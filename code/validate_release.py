@@ -51,15 +51,18 @@ def validate_privacy_scan() -> None:
     email_pattern = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
     findings = []
     for path in ROOT.rglob("*"):
+        relative = path.relative_to(ROOT)
+        if any(part in {".git", ".venv", "__pycache__"} for part in relative.parts):
+            continue
         if not path.is_file() or path.suffix not in TEXT_SUFFIXES:
             continue
         if path.resolve() == Path(__file__).resolve():
             continue
         text = path.read_text(errors="ignore")
         if email_pattern.search(text):
-            findings.append(f"email-like string in {path.relative_to(ROOT)}")
+            findings.append(f"email-like string in {relative}")
         if "/Users/" in text or "CloudStorage" in text:
-            findings.append(f"local absolute path in {path.relative_to(ROOT)}")
+            findings.append(f"local absolute path in {relative}")
     if findings:
         raise AssertionError("Privacy scan failed:\n" + "\n".join(findings))
 

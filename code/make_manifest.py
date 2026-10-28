@@ -25,7 +25,7 @@ def main() -> None:
             continue
         if relative.as_posix() == "MANIFEST.sha256":
             continue
-        if any(part in {".venv", "__pycache__"} for part in relative.parts):
+        if any(part in {".git", ".venv", "__pycache__"} for part in relative.parts):
             continue
         files.append(path)
     lines = [f"{digest(path)}  {path.relative_to(ROOT).as_posix()}" for path in sorted(files)]

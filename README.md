@@ -4,6 +4,8 @@ Version 1.0.0 — frozen 28 October 2026
 
 This package supports the analyses reported in *Associations of Google Pixel Watch 3 Daily Readiness With Autonomic Physiology and Self-Reported Wellness: An Exploratory 14-Day Repeated-Measures Study*.
 
+Archived release DOI: [10.5281/zenodo.23734016](https://doi.org/10.5281/zenodo.23734016)
+
 ## Contents
 
 - `data/analytic_dataset.csv`: disclosure-reduced analysis data with sequential pseudonymous participant identifiers and synthetic dates.
