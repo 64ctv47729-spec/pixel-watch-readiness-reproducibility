@@ -1,0 +1,5 @@
+Outcome,n rows,Participants,Base + Sleep RPS,+ Readiness RPS,Difference (95% CI),FDR q
+Fatigue,189,29,0.1413,0.1433,+0.0020 (+0.0004 to +0.0038),0.032
+Stress,188,29,0.1387,0.1395,+0.0009 (-0.0035 to +0.0056),0.806
+Body soreness,189,29,0.1409,0.1406,-0.0003 (-0.0024 to +0.0018),0.806
+Sleep quality,189,29,0.1653,0.1664,+0.0011 (+0.0004 to +0.0019),0.002

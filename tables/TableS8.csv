@@ -1,0 +1,5 @@
+Outcome,Cut points,Test rows summed,Base RPS,Base + Readiness RPS,Difference
+Fatigue,3,161,0.1488,0.1532,+0.0044
+Stress,3,158,0.1716,0.1705,-0.0011
+Body soreness,3,161,0.1539,0.1656,+0.0117
+Sleep quality,3,161,0.1767,0.1774,+0.0007

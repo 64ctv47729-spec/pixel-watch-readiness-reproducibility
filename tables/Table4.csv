@@ -1,0 +1,5 @@
+Outcome,N rows (participants),Base RPS,Base + Readiness RPS,Difference (95% cluster-bootstrap CI),FDR q
+Fatigue/freshness,212 (31),0.1316,0.1340,+0.0024 (−0.0002 to +0.0050),0.144
+Stress/relaxation,211 (31),0.1333,0.1349,+0.0016 (−0.0033 to +0.0073),0.596
+Body soreness/recovery,212 (31),0.1355,0.1346,−0.0009 (−0.0031 to +0.0012),0.491
+Sleep quality,212 (31),0.1601,0.1614,+0.0014 (+0.0004 to +0.0024),0.020

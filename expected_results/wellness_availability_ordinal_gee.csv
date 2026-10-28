@@ -1,0 +1,5 @@
+outcome,n,participants,term,beta_log_odds_more_favourable,robust_se,OR_more_favourable,ci_low,ci_high,p,adjusted_for,working_correlation
+Fatigue,406,38,readiness_available,0.23340826332539236,0.21952154734997256,1.2628969686084492,0.8213105609637403,1.9419070314265972,0.2876645078860274,"protocol day (per 7 days), second episode",independence; participant-cluster robust SE
+Stress,405,38,readiness_available,0.06130072687417168,0.27405070716371094,1.0632186045225476,0.6213637255018329,1.8192787164875122,0.8230032861300823,"protocol day (per 7 days), second episode",independence; participant-cluster robust SE
+Body,407,38,readiness_available,0.446791018266876,0.2893962523221222,1.563287566601986,0.8865430115264668,2.756626564214251,0.12261913733848506,"protocol day (per 7 days), second episode",independence; participant-cluster robust SE
+Sleep,407,38,readiness_available,0.11806232498181053,0.20841175081302207,1.125314244371612,0.7479458425688429,1.6930800019375678,0.5710634933080494,"protocol day (per 7 days), second episode",independence; participant-cluster robust SE

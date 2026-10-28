@@ -1,0 +1,32 @@
+{
+  "n_folds": 5,
+  "n_repeats": 20,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "bootstrap": 2000,
+  "bootstrap_seed_base": 20261027,
+  "primary_weighting": "row weighted",
+  "sensitivity_weighting": "participant weighted",
+  "failed_folds": 0,
+  "total_fold_fits": 400
+}

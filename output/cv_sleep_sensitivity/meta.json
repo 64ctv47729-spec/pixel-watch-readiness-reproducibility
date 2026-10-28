@@ -1,0 +1,31 @@
+{
+  "n_folds": 5,
+  "n_repeats": 20,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "bootstrap": 2000,
+  "bootstrap_seed_base": 20261127,
+  "failed_folds": 0,
+  "base_model_addition": "standardized Google Sleep Score",
+  "expanded_model_addition": "standardized Google Daily Readiness"
+}

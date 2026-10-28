@@ -1,0 +1,35 @@
+outcome,availability,category,n,denominator,pct
+Fatigue,Readiness blank,Very Tired,4,186,2.150537634408602
+Fatigue,Readiness blank,Tired,55,186,29.56989247311828
+Fatigue,Readiness blank,Normal,79,186,42.473118279569896
+Fatigue,Readiness blank,Fresh,43,186,23.118279569892472
+Fatigue,Readiness blank,Very Fresh,5,186,2.6881720430107525
+Fatigue,Readiness recorded,Very Tired,4,220,1.8181818181818181
+Fatigue,Readiness recorded,Tired,62,220,28.181818181818183
+Fatigue,Readiness recorded,Normal,77,220,35.0
+Fatigue,Readiness recorded,Fresh,65,220,29.545454545454547
+Fatigue,Readiness recorded,Very Fresh,12,220,5.454545454545454
+Stress,Readiness blank,Stressed,31,187,16.577540106951872
+Stress,Readiness blank,Normal,104,187,55.61497326203209
+Stress,Readiness blank,Relaxed,39,187,20.855614973262032
+Stress,Readiness blank,Very Relaxed,13,187,6.951871657754011
+Stress,Readiness recorded,Stressed,33,218,15.137614678899082
+Stress,Readiness recorded,Normal,113,218,51.8348623853211
+Stress,Readiness recorded,Relaxed,61,218,27.98165137614679
+Stress,Readiness recorded,Very Relaxed,11,218,5.045871559633028
+Body,Readiness blank,Sore/Tight,50,187,26.737967914438503
+Body,Readiness blank,Normal,97,187,51.8716577540107
+Body,Readiness blank,Feeling Good,35,187,18.71657754010695
+Body,Readiness blank,Feeling Great,5,187,2.6737967914438503
+Body,Readiness recorded,Sore/Tight,41,220,18.636363636363637
+Body,Readiness recorded,Normal,111,220,50.45454545454545
+Body,Readiness recorded,Feeling Good,56,220,25.454545454545453
+Body,Readiness recorded,Feeling Great,12,220,5.454545454545454
+Sleep,Readiness blank,Restless Sleep,27,187,14.438502673796792
+Sleep,Readiness blank,Sleep Onset/Early Waking,30,187,16.0427807486631
+Sleep,Readiness blank,Restful,121,187,64.70588235294117
+Sleep,Readiness blank,Very Restful,9,187,4.81283422459893
+Sleep,Readiness recorded,Restless Sleep,29,220,13.181818181818182
+Sleep,Readiness recorded,Sleep Onset/Early Waking,41,220,18.636363636363637
+Sleep,Readiness recorded,Restful,125,220,56.81818181818182
+Sleep,Readiness recorded,Very Restful,25,220,11.363636363636363

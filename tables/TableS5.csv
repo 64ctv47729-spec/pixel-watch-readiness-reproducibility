@@ -1,0 +1,14 @@
+Outcome,Threshold,OR,95% CI,p,Fit note
+Fatigue,1,—,—,—,Too few observations
+Fatigue,2,1.15,0.93–1.42,0.208,Estimated
+Fatigue,3,1.26,1.03–1.55,0.026,Estimated
+Fatigue,4,1.13,0.75–1.69,0.555,Estimated
+Stress,1,1.14,0.91–1.43,0.264,Estimated
+Stress,2,1.52,1.19–1.96,<0.001,Estimated
+Stress,3,1.19,0.73–1.92,0.493,Estimated
+Body soreness,1,1.22,0.98–1.52,0.081,Estimated
+Body soreness,2,1.09,0.86–1.37,0.470,Estimated
+Body soreness,3,1.09,0.68–1.76,0.724,Estimated
+Sleep quality,1,1.16,0.91–1.47,0.238,Estimated
+Sleep quality,2,1.12,0.93–1.35,0.217,Estimated
+Sleep quality,3,1.27,0.91–1.78,0.160,Estimated

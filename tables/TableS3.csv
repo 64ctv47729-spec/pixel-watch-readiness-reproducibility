@@ -1,0 +1,8 @@
+Term,OR,95% CI,p
+Intercept,0.52,0.23–1.18,0.116
+Protocol day (per 7 days),1.62,1.00–2.62,0.051
+Second monitoring episode,1.78,0.29–10.96,0.536
+Fatigue (standardised),1.19,0.96–1.48,0.117
+Stress (standardised),0.99,0.74–1.33,0.965
+Body soreness (standardised),1.05,0.79–1.38,0.747
+Sleep quality (standardised),0.93,0.75–1.16,0.538

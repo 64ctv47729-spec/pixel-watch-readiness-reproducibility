@@ -1,0 +1,27 @@
+{
+  "gee_n": 404,
+  "gee_participants": 38,
+  "availability_overall_pct": 53.7,
+  "availability_by_episode": [
+    {
+      "episode": 1,
+      "mean": 0.5382513661202186,
+      "size": 366
+    },
+    {
+      "episode": 2,
+      "mean": 0.5526315789473685,
+      "size": 38
+    }
+  ],
+  "or_day7": [
+    1.616,
+    0.998,
+    2.617,
+    0.05095
+  ],
+  "ipw_range": [
+    0.585,
+    1.281
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "rows": 410,
+  "identifiers": 38,
+  "episodes": 44,
+  "second_episode_identifiers": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    38
+  ],
+  "obs_per_identifier": {
+    "min": 4,
+    "median": 9.0,
+    "max": 28
+  },
+  "missingness_pct": {
+    "Fatigue": 1.0,
+    "Stress": 1.2,
+    "Body": 0.7,
+    "Sleep": 0.7,
+    "Google_Readiness": 46.3,
+    "Google_sleep_score": 26.8,
+    "RMSSD": 5.6,
+    "RMSSD_fitabase": 48.8,
+    "HR": 5.6,
+    "Resp_Rate_breaths_per_min": 5.9,
+    "Alcohol_units": 85.9,
+    "Exercise_exertion": 49.5
+  },
+  "readiness": {
+    "n": 220,
+    "mean": 60.57,
+    "sd": 19.06,
+    "min": 0.0,
+    "max": 100.0,
+    "zeros": 1
+  },
+  "kubios_timing": {
+    "n": 387,
+    "morning_0400_1159": 381,
+    "pct_morning": 98.4,
+    "questionnaire_after_kubios": 378,
+    "median_lag_min": 14.6,
+    "q1_lag": 8.1,
+    "q3_lag": 136.7,
+    "within_30min": 219
+  },
+  "kubios_fitabase_simultaneity": {
+    "n_both": 210,
+    "median_offset_min": 2.8,
+    "abs_within_15min": 177
+  },
+  "after_midnight_questionnaires": 6,
+  "protocol_day_beyond_14_rows": 50,
+  "structural_missingness": {
+    "exercise_yes": 208,
+    "exercise_yes_with_exertion": 207,
+    "exercise_no_with_exertion": 0,
+    "alcohol_yes": 58,
+    "alcohol_yes_with_units": 58,
+    "alcohol_no_with_units": 0
+  },
+  "outcome_category_counts": {
+    "Fatigue": {
+      "Normal": 156,
+      "Tired": 117,
+      "Fresh": 108,
+      "Very Fresh": 17,
+      "Very Tired": 8
+    },
+    "Stress": {
+      "Normal": 217,
+      "Relaxed": 100,
+      "Stressed": 63,
+      "Very Relaxed": 24,
+      "Very Stressed": 1
+    },
+    "Body": {
+      "Normal": 208,
+      "Feeling Good": 91,
+      "Sore/Tight": 90,
+      "Feeling Great": 17,
+      "Very Sore/Tight": 1
+    },
+    "Sleep": {
+      "Restful": 246,
+      "Sleep Onset/Early Waking": 71,
+      "Restless Sleep": 56,
+      "Very Restful": 34
+    }
+  }
+}

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this analysis package, please cite the associated article and this software release."
+title: "Google Pixel Watch 3 Daily Readiness: Analysis and Reproducibility Package"
+type: software
+version: 1.0.0
+date-released: 2026-10-28
+license: MIT
+repository-code: "https://github.com/64ctv47729-spec/pixel-watch-readiness-reproducibility"
+authors:
+  - family-names: Doherty
+    given-names: Cailbhe
+  - family-names: Hannon
+    given-names: James
+  - family-names: Cazorla-Cahill
+    given-names: Lourdes
+  - family-names: Kelly
+    given-names: Aoife
+  - family-names: McAleese
+    given-names: Ben
+  - family-names: Medina
+    given-names: Laois
+  - family-names: Ní Chasaide
+    given-names: Míde
+  - family-names: Caulfield
+    given-names: Brian
+

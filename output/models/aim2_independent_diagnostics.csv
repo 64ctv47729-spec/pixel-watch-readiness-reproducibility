@@ -1,0 +1,33 @@
+analysis,outcome,converged,message,re_sd,resid_sd,variance_ratio,reml_objective,bootstrap_successes
+"primary independent LMM (episode-centred), cluster bootstrap",RMSSD,True,Solution found.,0.5886092044077645,0.3506964217965824,2.8170297193148803,-167.51410984605684,2000
+"primary independent LMM (episode-centred), cluster bootstrap",SDNN,True,Solution found.,0.5157467292280226,0.2754141716003103,3.5067144110878123,-214.8490106556435,2000
+"primary independent LMM (episode-centred), cluster bootstrap",SD1,True,Solution found.,0.5887634016108957,0.35093731718974586,2.8146377501722366,-167.38253096316157,2000
+"primary independent LMM (episode-centred), cluster bootstrap",SD2,True,Solution found.,0.5013171577780636,0.26835198155599355,3.4899204242025523,-220.31686134531466,2000
+"primary independent LMM (episode-centred), cluster bootstrap",PNS_index,True,Solution found.,1.7940309645162817,0.9979573803691528,3.2317360328119458,51.83966407479347,2000
+"primary independent LMM (episode-centred), cluster bootstrap",SNS_index,True,Solution found.,1.1942684207142125,0.6389788279152165,3.493260399354851,-39.84902351884641,2000
+"primary independent LMM (episode-centred), cluster bootstrap",HR,True,Solution found.,10.904518124156642,5.461496214784837,3.9864808604230473,408.22652070100855,2000
+"primary independent LMM (episode-centred), cluster bootstrap",Resp_Rate_breaths_per_min,True,Solution found.,2.7035813582760877,1.8247144193789162,2.1952757424645126,172.26811661591782,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",RMSSD,True,Solution found.,0.6175412956711445,0.3276055140850099,3.553281406816551,-135.49697189853015,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",SDNN,True,Solution found.,0.5292235615003741,0.2582601854688151,4.199169690881832,-172.81751509975888,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",SD1,True,Solution found.,0.6178610493888038,0.32771516906226966,3.5545820792915106,-135.4367108681829,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",SD2,True,Solution found.,0.5106412242153103,0.2544990817324715,4.02586591138808,-175.80061168232072,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",PNS_index,True,Solution found.,1.885831752976198,0.9197864206806033,4.203701801173004,38.045401023242505,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",SNS_index,True,Solution found.,1.1748848527315894,0.6022225961416805,3.806067760093919,-33.54712121795677,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",HR,True,Solution found.,10.497644534196391,4.971720480305153,4.458310565219253,318.9173901367343,2000
+"sensitivity: episode 1, protocol days 1-14 (same-date verified)",Resp_Rate_breaths_per_min,True,Solution found.,2.613902694649425,1.8721919776897407,1.9492972629821597,146.3329444194128,2000
+sensitivity: Readiness=0 excluded,RMSSD,True,Solution found.,0.588851404828286,0.34937659501530466,2.840689821358884,-167.21219128141675,0
+sensitivity: Readiness=0 excluded,SDNN,True,Solution found.,0.5154007263233332,0.27530897717662856,3.5046875564507967,-213.72389192694132,0
+sensitivity: Readiness=0 excluded,SD1,True,Solution found.,0.5890068833856216,0.34961602409282844,2.838298587726818,-167.08153644111252,0
+sensitivity: Readiness=0 excluded,SD2,True,Solution found.,0.500955677630824,0.26854184044381807,3.479963462530313,-218.97095922430316,0
+sensitivity: Readiness=0 excluded,PNS_index,True,Solution found.,1.793060970229686,0.9945007938694823,3.2507221190129854,51.12495561169906,0
+sensitivity: Readiness=0 excluded,SNS_index,True,Solution found.,1.1879369945506963,0.6337125931988303,3.5140030931556563,-41.111896481694714,0
+sensitivity: Readiness=0 excluded,HR,True,Solution found.,10.805487376610643,5.415340107391625,3.9814131429482957,404.6764149490445,0
+sensitivity: Readiness=0 excluded,Resp_Rate_breaths_per_min,True,Solution found.,2.7033396004906045,1.8296322538424394,2.183099837443748,172.07746052455974,0
+sensitivity: Kubios Quality >= 90,RMSSD,True,Solution found.,0.5886092044077645,0.3506964217965824,2.8170297193148803,-167.51410984605684,0
+sensitivity: Kubios Quality >= 90,SDNN,True,Solution found.,0.5157467292280226,0.2754141716003103,3.5067144110878123,-214.8490106556435,0
+sensitivity: Kubios Quality >= 90,SD1,True,Solution found.,0.5887634016108957,0.35093731718974586,2.8146377501722366,-167.38253096316157,0
+sensitivity: Kubios Quality >= 90,SD2,True,Solution found.,0.5013171577780636,0.26835198155599355,3.4899204242025523,-220.31686134531466,0
+sensitivity: Kubios Quality >= 90,PNS_index,True,Solution found.,1.7940309645162817,0.9979573803691528,3.2317360328119458,51.83966407479347,0
+sensitivity: Kubios Quality >= 90,SNS_index,True,Solution found.,1.1942684207142125,0.6389788279152165,3.493260399354851,-39.84902351884641,0
+sensitivity: Kubios Quality >= 90,HR,True,Solution found.,10.904518124156642,5.461496214784837,3.9864808604230473,408.22652070100855,0
+sensitivity: Kubios Quality >= 90,Resp_Rate_breaths_per_min,True,Solution found.,2.7035813582760877,1.8247144193789162,2.1952757424645126,172.26811661591782,0

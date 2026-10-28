@@ -1,0 +1,13 @@
+Characteristic,Audited value
+Participant identifiers,38
+Distinct consented participants,not independently verifiable without enrolment log
+Demographics,not independently reproducible for all 38 identifiers
+Monitoring episodes,44
+Participant-day records,410
+Wellness responses present,405–407
+Daily Readiness recorded,220 (53.7%)
+"Daily Readiness, mean (SD)",60.6 (19.1)
+Kubios records,387
+Kubios 04:00–11:59,381 (98.4%)
+Questionnaire after Kubios,378 (97.7%)
+"Kubios-to-questionnaire lag, median (IQR), min",14.6 (8.1–136.7)

@@ -1,0 +1,9 @@
+Outcome,Within-person effect (95% cluster-bootstrap CI),FDR q,Episode-mean FDR q
+RMSSD,+6.2% (+2.7 to +11.7%),<0.001,0.869
+SDNN,+3.7% (+1.1 to +7.4%),0.001,0.869
+SD1 (≡RMSSD/√2),+6.2% (+2.7 to +11.6%),<0.001,0.869
+SD2,+3.0% (+0.5 to +7.0%),0.006,0.869
+PNS index,+0.15 units (+0.08 to +0.23),<0.001,0.869
+SNS index,−0.12 units (−0.25 to −0.05),<0.001,0.869
+Heart rate,−0.99 beats/min (−1.91 to −0.42),<0.001,0.869
+Respiratory rate,−0.06 breaths/min (−0.31 to +0.14),0.440,0.869

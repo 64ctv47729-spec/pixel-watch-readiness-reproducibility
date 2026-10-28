@@ -1,0 +1,14 @@
+{
+  "participants": 38,
+  "median_readiness_days": 4.0,
+  "q1_readiness_days": 1.0,
+  "q3_readiness_days": 9.0,
+  "minimum_readiness_days": 0,
+  "maximum_readiness_days": 16,
+  "participants_with_zero_readiness_days": 7,
+  "median_readiness_pct": 46.03174603174603,
+  "q1_readiness_pct": 14.285714285714286,
+  "q3_readiness_pct": 90.0,
+  "score_yielding_episodes": 36,
+  "episodes_without_recorded_score": 8
+}

@@ -1,0 +1,5 @@
+Outcome,Within-person OR (95% CI),p,FDR q,Episode-mean OR (95% CI),FDR q
+Fatigue/freshness,1.19 (1.03–1.38),0.021,0.042,1.16 (0.72–1.86),0.726
+Stress/relaxation,1.26 (1.08–1.47),0.003,0.014,1.01 (0.62–1.63),0.979
+Body soreness/recovery,1.11 (0.95–1.30),0.172,0.172,1.69 (1.08–2.65),0.090
+Sleep quality,1.16 (0.99–1.35),0.064,0.085,1.22 (0.77–1.93),0.726

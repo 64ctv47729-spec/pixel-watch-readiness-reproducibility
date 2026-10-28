@@ -1,0 +1,7 @@
+{
+  "implementation": "independent Python likelihood and REML verification",
+  "aim1_quadrature_nodes": 30,
+  "aim2_bootstrap_draws_primary": 2000,
+  "aim2_bootstrap_draws_protocol_sensitivity": 2000,
+  "seed_base": 20261027
+}

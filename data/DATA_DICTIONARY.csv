@@ -1,0 +1,31 @@
+variable,group,description,analysis_role,data_type,non_missing_n,missing_n
+Participant_ID,Identifier,Sequential pseudonymous participant identifier (1-38).,Clustering and grouped cross-validation.,int64,410,0
+q_date,Timing,Synthetic participant-day date; preserves within-participant order and episode structure but not calendar time.,Grouping repeated predictions by participant-day; not interpretable as a real date.,object,410,0
+episode,Timing,Monitoring episode number within participant.,Episode-specific centring and sensitivity analyses.,int64,410,0
+protocol_day,Timing,Calendar day from the first questionnaire record within the episode.,Adjustment variable and protocol-window sensitivities.,int64,410,0
+record_index,Timing,Sequential retained record number within participant.,Administrative ordering only.,int64,410,0
+Fatigue,Wellness,Self-reported fatigue/freshness category.,Aim 1 and Aim 3 outcome.,object,406,4
+Stress,Wellness,Self-reported stress/relaxation category.,Aim 1 and Aim 3 outcome.,object,405,5
+Body,Wellness,Self-reported body soreness/recovery category.,Aim 1 and Aim 3 outcome.,object,407,3
+Sleep,Wellness,Self-reported sleep-quality category for the preceding night.,Aim 1 and Aim 3 outcome.,object,407,3
+Fatigue_score,Wellness,Numeric score corresponding to the ordered fatigue/freshness category.,Missingness model predictor.,float64,406,4
+Stress_score,Wellness,Numeric score corresponding to the ordered stress/relaxation category.,Missingness model predictor.,float64,405,5
+Body_score,Wellness,Numeric score corresponding to the ordered body-soreness/recovery category.,Missingness model predictor.,float64,407,3
+Sleep_score,Wellness,Numeric score corresponding to the ordered sleep-quality category.,Missingness model predictor.,float64,407,3
+Exercise,Context,Exercise reported during the preceding 24 hours (Yes/No).,Aim 3 binary predictor.,object,407,3
+Alcohol,Context,Alcohol consumption reported during the preceding 24 hours (Yes/No).,Aim 3 binary predictor.,object,407,3
+Illness,Context,Recent illness reported (Yes/No).,Aim 3 binary predictor.,object,407,3
+Google_Readiness,Google,Participant-transcribed Google Daily Readiness score.,Primary exposure; nominal 0-100 scale.,float64,220,190
+Google_sleep_score,Google,Participant-transcribed Google/Fitbit Sleep Score.,Aim 3 sensitivity predictor.,float64,300,110
+Kubios_Readiness,Kubios,Kubios proprietary readiness score.,Supplementary context only.,float64,387,23
+Artefact_pct,Quality,Kubios corrected-beat percentage.,Audit-only sensitivity; not a primary exclusion rule.,float64,387,23
+Quality,Quality,Kubios signal-quality index.,Physiology quality sensitivity.,float64,387,23
+PNS_index,Physiology,Kubios parasympathetic nervous system composite index.,Aim 2 outcome.,float64,387,23
+SNS_index,Physiology,Kubios sympathetic nervous system composite index.,Aim 2 outcome.,float64,387,23
+HR,Physiology,Mean heart rate during the Kubios recording (beats/min).,Aim 2 outcome and Aim 3 predictor.,float64,387,23
+SDNN,Physiology,Standard deviation of normal-to-normal RR intervals.,Aim 2 log-transformed outcome.,float64,387,23
+SD1,Physiology,Short-axis Poincare-plot HRV measure.,Aim 2 log-transformed outcome.,float64,387,23
+SD2,Physiology,Long-axis Poincare-plot HRV measure.,Aim 2 log-transformed outcome.,float64,387,23
+RMSSD,Physiology,Root mean square of successive normal RR-interval differences.,Aim 2 log-transformed outcome and Aim 3 predictor.,float64,387,23
+Resp_Rate_breaths_per_min,Physiology,Kubios-estimated respiratory rate (breaths/min).,Aim 2 outcome and Aim 3 predictor.,float64,386,24
+q_minus_k_minutes,Timing,Questionnaire minus Kubios timing difference in minutes; retained for timing sensitivity analyses.,Sensitivity analyses only; known questionnaire timestamp artefacts may affect this field.,float64,387,23

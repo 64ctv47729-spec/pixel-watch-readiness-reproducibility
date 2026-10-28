@@ -1,0 +1,21 @@
+Analysis,Outcome,n (participants),OR,95% CI,FDR q
+Primary episode-centred,Fatigue,220 (31),1.19,1.03–1.38,0.042
+Primary episode-centred,Stress,218 (31),1.26,1.08–1.47,0.014
+Primary episode-centred,Body soreness,220 (31),1.11,0.95–1.30,0.172
+Primary episode-centred,Sleep quality,220 (31),1.16,0.99–1.35,0.085
+"Episode 1, days 1–14",Fatigue,178 (30),1.26,1.06–1.51,0.037
+"Episode 1, days 1–14",Stress,177 (30),1.25,1.04–1.50,0.037
+"Episode 1, days 1–14",Body soreness,178 (30),1.22,1.01–1.47,0.046
+"Episode 1, days 1–14",Sleep quality,178 (30),1.10,0.91–1.33,0.325
+Readiness=0 excluded,Fatigue,219 (31),1.23,1.05–1.44,0.017
+Readiness=0 excluded,Stress,217 (31),1.28,1.09–1.51,0.010
+Readiness=0 excluded,Body soreness,219 (31),1.09,0.93–1.28,0.277
+Readiness=0 excluded,Sleep quality,219 (31),1.15,0.98–1.35,0.124
+Participant-mean centred,Fatigue,220 (31),1.20,1.03–1.38,0.035
+Participant-mean centred,Stress,218 (31),1.25,1.08–1.46,0.014
+Participant-mean centred,Body soreness,220 (31),1.13,0.97–1.31,0.126
+Participant-mean centred,Sleep quality,220 (31),1.18,1.01–1.37,0.047
+Duplicate-adjudicated dates excluded,Fatigue,207 (31),1.17,1.01–1.36,0.079
+Duplicate-adjudicated dates excluded,Stress,205 (31),1.23,1.05–1.44,0.035
+Duplicate-adjudicated dates excluded,Body soreness,207 (31),1.11,0.95–1.30,0.197
+Duplicate-adjudicated dates excluded,Sleep quality,207 (31),1.16,0.99–1.35,0.097
